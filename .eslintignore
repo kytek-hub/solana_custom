@@ -1,0 +1,8 @@
+/commitlint.config.js
+/coverage
+/deploy
+/doc
+/flow-typed
+/lib
+/module.flow.js
+/jest-environment.js
